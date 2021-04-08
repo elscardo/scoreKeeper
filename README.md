@@ -1,0 +1,1 @@
+This is a simple Ping Pong score keeper created as a project from Colt Steele's WebDev Bootcamp. It uses Javascript, HTML, nad BULMA for CSS.
